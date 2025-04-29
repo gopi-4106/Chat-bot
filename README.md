@@ -8,7 +8,7 @@ The objective of this assignment is to assess your ability to design and develop
 **Parts:**
 
 * **Part 1: Setting Up the Environment**
-    * Ensure Python is installed on your system. [cite: 3, 4]
+    * Ensure Python is installed on your system.
     * Set up the necessary dependencies to support AI model training and chatbot development. [cite: 3, 4]
 * **Part 2: Preparing the Custom Dataset**
     * Create a structured dataset in JSON format. [cite: 5, 6]
@@ -25,21 +25,3 @@ The objective of this assignment is to assess your ability to design and develop
 * **Part 5: Creating a Web Interface**
     * Develop a Flask-based API to handle chatbot interactions. [cite: 12, 13]
     * Implement an endpoint to accept user input and return chatbot responses. [cite: 12, 13]
-
-**Submission Requirements:**
-
-Each submission must include the following:
-
-* `dataset.json` (custom training data) [cite: 14]
-* `chatbot.py` (Python script implementing the chatbot logic) [cite: 14]
-* `app.py` (Flask API for chatbot interaction) [cite: 14]
-* Model file [cite: 14]
-* Screenshots or a short video demonstrating the chatbot in action [cite: 14]
-
-This assignment will help evaluate your skills in AI model training, chatbot development, and web integration. [cite: 14] All submissions must be original and completed independently. [cite: 15]
-
-**Deadline:** 4 Days After Assigned Date [cite: 15]
-
-**Submission Method:** GitHub Repository [cite: 15]
-
-**Good luck!**
